@@ -17,7 +17,7 @@ global.defaultLenguaje = 'en';
 
 global.owner = [
   ['', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['639096596060', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
@@ -54,8 +54,8 @@ global.owner = [
   ['5218444937407']
 ];
 
-global.suittag = ['19514693360'];
-global.prems = ['639302993868'];
+global.suittag = ['639096596060'];
+global.prems = ['639096596060'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriussapi-oficial.vercel.app";
@@ -100,7 +100,7 @@ global.mysticbot = 'LUV';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '639302993868';
+global.nomorown = '639096596060';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
